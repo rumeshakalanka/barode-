@@ -1,0 +1,9 @@
+svg{
+    width: 264.56px;
+    height: 75.59px;
+}
+@media print{
+    .barcode{
+        display: block;
+    }
+}
